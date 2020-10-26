@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "905684461553",
+    "firebase_url": "https://friendly-chat-d9d3e.firebaseio.com",
+    "project_id": "friendly-chat-d9d3e",
+    "storage_bucket": "friendly-chat-d9d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905684461553:android:72b96ee57adeddc851c650",
+        "android_client_info": {
+          "package_name": "com.dapo.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905684461553-l83has044s72qjj5d8120nn4vrmmdobi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dapo.chatapp",
+            "certificate_hash": "7ac7cdbefdf65da62b51af21b9c9a919368489f5"
+          }
+        },
+        {
+          "client_id": "905684461553-atkanljl22iqgu67ksntoqajdqgqp1g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHSvwtpPtRbEdJ3EshOGcIzTnyUqvjF-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905684461553-atkanljl22iqgu67ksntoqajdqgqp1g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

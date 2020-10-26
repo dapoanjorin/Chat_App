@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#0927D8</item>
+        <item name="colorPrimaryDark">#0927D8</item>
+        <item name="colorAccent">#0091FF</item>
+    </style>
+
+<!--    <style name="custom" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">-->
+<!--        <item name="materialThemeOverlay">@style/MyTextInputEditText_filledBox_custom_color</item>-->
+<!--    </style>-->
+
+<!--    <style name="MyTextInputEditText_filledBox_custom_color" parent="@style/Widget.MaterialComponents.TextInputEditText.FilledBox">-->
+<!--        <item name="android:textColorPrimary">#727070</item>-->
+<!--    </style>-->
+
+    <style name="CustomEditText" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="boxCornerRadiusBottomEnd">18dp</item>
+        <item name="boxCornerRadiusBottomStart">18dp</item>
+        <item name="boxCornerRadiusTopStart">18dp</item>
+        <item name="boxCornerRadiusTopEnd">18dp</item>
+        <item name="android:background">#000000</item>
+    </style>
+
+    <style name="custom">
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
