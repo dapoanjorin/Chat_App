@@ -245,29 +245,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-
-//        mMessageEditText = findViewById(R.id.messageEditText);
-//        mEditText = findViewById(R.id.editInput);
-//        mEditText.addOnEditTextAtta
-//        chedListener(new TextInputLayout.OnEditTextAttachedListener() {
-//            @Override
-//            public void onEditTextAttached(@NonNull TextInputLayout textInputLayout) {
-//
-//            }
-//        });
-//        mEditText.setEndIconOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                FriendlyMessage friendlyMessage = new
-//                        FriendlyMessage(mMessageEditText.getText().toString(),
-//                        mUsername,
-//                        mPhotoUrl,
-//                        null /* no image */);
-//                mFirebaseDatabaseReference.child(MESSAGES_CHILD)
-//                        .push().setValue(friendlyMessage);
-//                mMessageEditText.setText("");
-//            }
-//        });
+        
 
         mAddMessageImageView = (ImageView) findViewById(R.id.addMessageImageView);
         mAddMessageImageView.setOnClickListener(new View.OnClickListener() {
