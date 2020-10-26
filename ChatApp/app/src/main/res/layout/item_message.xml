@@ -75,7 +75,7 @@
             android:layout_toRightOf="@id/messengerImageView"
             android:layout_centerVertical="true"
             app:cardCornerRadius="8dp"
-            app:cardBackgroundColor="#C1C1C9">
+            app:cardBackgroundColor="#f0f2f5">
 
         <RelativeLayout
                 android:layout_width="wrap_content"
